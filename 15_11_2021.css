@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 em {
 	font-style: normal;
 	color: green;
@@ -32,3 +33,24 @@ p.centered {
 	text-align: center;
 	width: 50%;
 }
+=======
+<style type="text/css">
+{}
+	h1 {
+		font-size: 24pt;
+		color : red;
+		text-decoration : underline;
+		font-family: tahoma, helvetica, sans-serif;
+	}
+	em {
+		font-style: normal;
+		color: green;
+		background-color: lightgrey;
+		font-weight: bold;
+	}
+	ul {
+		list-style-type: square;
+	}	
+</style>
+
+>>>>>>> a94c8719a78c17d84780d7235df0a2cf9a2bc696
