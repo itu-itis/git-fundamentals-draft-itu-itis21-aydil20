@@ -61,7 +61,7 @@
 			<li> Homo neanderthalensis </li>
 			<li> Homo floresiensis (hobbit) </li>
 			<li> Homo sapiens (wise man) </li>
-				<ul id="innerUL" onmouseover"document.getElementById('innerUL').style.backgroundColor='orange' "> <li> Homo sapiens sapiens </li> </ul> 
+				<ul id="innerUL" onmclick="document.getElementById('innerUL').style.backgroundColor='orange' "> <li> Homo sapiens sapiens </li> </ul> 
 		</ul>
 		
 		<h1 onmouseover="style.color='orange'; style.backgroundColor='lightgreen' "
